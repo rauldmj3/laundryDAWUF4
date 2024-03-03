@@ -3,13 +3,12 @@ Raul de mingo
 ---
 ## Usingdasdsad Tech:
 
-* Phasdasp
+* Phasdaspadsdasd
 * JaasdasdvaScript
-* MySql
-* JQueasdasdy
-* Ajax
-* Bootstarp
-* HTML5
+* MySqlasdsadsdsada
+* JQueasdasdyasd
+* Bootstarpasdasd
+* HTML5asdasdasdas
 * CSS3
 
 
