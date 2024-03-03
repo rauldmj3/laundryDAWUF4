@@ -1,12 +1,12 @@
 # laundry management system
-
+Raul de mingo
 ---
-## Using Tech:
+## Usingdasdsad Tech:
 
-* Php
-* JavaScript
+* Phasdasp
+* JaasdasdvaScript
 * MySql
-* JQuery
+* JQueasdasdy
 * Ajax
 * Bootstarp
 * HTML5
@@ -19,7 +19,7 @@
 ## Features
 
 *	Add/delete/claim customer details with priority, weight, and types 
-*	You can add laundry type and amount
+*	You can aasdasddd laundry type and amount
 *	You can generate of whole or specific report
 *	You can change password and can logout
 
@@ -29,9 +29,7 @@
 
 ## Author Info
 - Linkedin- [@Mohaiminur](https://www.linkedin.com/in/mohaiminur/)
-- Youtube- [@Mohaiminur](https://www.youtube.com/channel/UC5MlwVt5vXtpHvgDHxbgqmw)
-- Facebook- [@Mohaiminur](https://facebook.com/mohaiminur404)
-- Twitter - [@Mohaiminur](https://twitter.com/mohaiminur404)
+- Youtube- [minur](https://twitter.com/mohaiminur404)
 - Website - [Mohaiminur](https://mohaiminur.ml)
 
 ---
