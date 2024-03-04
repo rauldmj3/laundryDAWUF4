@@ -1,5 +1,5 @@
 # laundry management system
-Raul de mingo
+Raul de mingo -> Propietario
 ---
 ## Usingdasdsad Tech:
 
