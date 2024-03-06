@@ -1,5 +1,5 @@
 # laundry management system
-Raul de mingo
+Eric Rubio -> Colaborador
 ---
 ## Usingdasdsad Tech:
 
