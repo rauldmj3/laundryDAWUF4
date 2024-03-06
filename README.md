@@ -1,5 +1,4 @@
 # laundry management system
-Eric Rubio -> Colaborador
 ---
 ## Usingdasdsad Tech:
 
