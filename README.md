@@ -1,6 +1,7 @@
 # laundry management system
 Raul de Mingo -> Propietario
 ---
+Eric Rubio -> Colaborador
 ## Usingdasdsad Tech:
 
 * Phasdaspadsdasd
